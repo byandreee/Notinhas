@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_91468813d6bf2a3e4628f99e21bb6bb09d591fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af0eea7fa89483476fd46aa2c117c903d1e67872">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\instant-run_60dee127afbc6a26573b5abedd7d8462d636d37a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_330e7a87886f6f9bec36745819927bf672fd0aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_484a99a2011030e88f6f0a2ff325421fab056af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bc56aa5d3f6a1e76fa2904996b4bbcbcde4842b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_c2795222fbfc58b74b3d9b01bed8936786afeaa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_2e6c6d3cd588699d9a16efd6a496ec012fc47728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.2.13\c5e29c073cc8539c409c6ef39201f979031de0c1\aws-android-sdk-ddb-2.2.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e29c073cc8539c409c6ef39201f979031de0c1">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\aws-android-sdk-ddb-2.2.13_480f0df9bdcbd1740f5194b3f68c1f0f04135d48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.2.13\251ebccacaad6a5036952dc6b259a2aabba38356\aws-android-sdk-cognito-2.2.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="251ebccacaad6a5036952dc6b259a2aabba38356">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\aws-android-sdk-cognito-2.2.13_2bf5922edf472718b08bfa23b4c19e28167a5bd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2253acc6d1562374d5aad8340f2437b10a9b896d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6db366a66eb4981299a5140348e5843cf32a91b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_732be975c4d9d229ca4dac6a1de26ca21c77a521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_be2d90c8d0976ae7ba402b4083ff45b69f1028d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_250fa25aaba16c3c4fd710d1c9eccb6d70515b9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_1766ea1c4bea101153af52322cd2acd0dc240a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_6df9e0c323ae7e32866583d40f3ee92ee71e6a75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_03c527cb0d7b6a04ca1b97ea15aeb174e4cb313d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d69028fd57925f7785a4fada267f911a8eaec548">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4753b519a21a0e9f388131a17e4d3b69fff64489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.2.13\1b15445de91b048a6b74506dd8261daf74decdcd\aws-android-sdk-s3-2.2.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1b15445de91b048a6b74506dd8261daf74decdcd">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\aws-android-sdk-s3-2.2.13_ec1773b8bab9c5ada9bf221702b975f351d99f24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.13\bcb160fb9cb637c7908e77d473cdbdabdd80e2b9\aws-android-sdk-core-2.2.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bcb160fb9cb637c7908e77d473cdbdabdd80e2b9">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.2.13_d59a6dca7c33a231d1a99edfb8a9287c1945d703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\andre\AndroidStudioProjects\Notinhas\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_9213ddd021349778a78fbbc48230f9f46ffd9a3c.jar" />
+    </item>
+
+</items>
